@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/vedha/code/fries/scala-spark/demo-spark/target/scala-2.11/demo-spark_2.11-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scala_spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vedha/code/fries/scala-spark/demo-spark/target/scala-2.11/classes/scala_spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scala_spark/scala_spark$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vedha/code/fries/scala-spark/demo-spark/target/scala-2.11/classes/scala_spark/scala_spark$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scala_spark/scala_spark.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vedha/code/fries/scala-spark/demo-spark/target/scala-2.11/classes/scala_spark/scala_spark.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
